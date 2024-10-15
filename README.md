@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Passionate Flutter Developer | Web Enthusiast | Technology Explorer<br><br>I'm a dedicated developer with a strong focus on creating beautiful and functional applications using Flutter. I also have a keen interest in web development and stay curious about the latest advancements in technology. Always striving to learn and grow!
+🌟 Passionate Flutter Developer | Web Enthusiast | Technology Explorer.<br><br>I'm a dedicated developer with a strong focus on creating beautiful and functional applications using Flutter. I also have a keen interest in web development and stay curious about the latest advancements in technology. Always striving to learn and grow!
 
 
 
