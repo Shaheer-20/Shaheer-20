@@ -1,15 +1,13 @@
 # 💫 About Me:
-🌟 Passionate Flutter Dev | Full-Stack Explorer | Tech Aficionado 💡<br><br>
-Hey there! I'm a curious and driven developer crafting smooth, functional apps with **Flutter** and diving deep into full-stack dev life.  
-Currently working as a **Software Developer at GD Edutech**, where we’re helping students level up with technical courses, DSA prep, and aptitude training.  
-Always learning, always building 🔥
+🌟 Software Developer at **GD Edutech** | Full-Stack Dev | ML Enthusiast | Flutter & Web Vibes 💻🔥<br><br>
+Hey! I’m a developer who vibes with both frontend *and* backend — currently building cool stuff as a **Software Developer at GD Edutech**.  
+I'm passionate about creating clean, user-centric apps using **Flutter**, diving into **Machine Learning**, and exploring full-stack technologies.  
+Forever learning, coding, and turning ideas into reality 🚀💡
 
 ---
 
 # 💼 Current Role:
-- 👨‍💻 **Software Developer @ GD Edutech**
-- 🎯 Contributing to platforms focused on **DSA**, **aptitude**, and **interview prep**
-- 💪 Focused on clean UI, real-time features, and scalable architecture
+**Software Developer @ GD Edutech**
 
 ---
 
@@ -57,4 +55,4 @@ Always learning, always building 🔥
 
 [![](https://visitcount.itsvg.in/api?id=Shaheer-20&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<!-- Powered by passion and caffeine ☕ -->
+<!-- Powered by vibes and version control ✨ -->
