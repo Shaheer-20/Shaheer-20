@@ -7,7 +7,7 @@ Forever learning, coding, and turning ideas into reality 🚀💡
 ---
 
 # 💼 Current Role:
-**Software Developer @ GD Edutech**
+**Software Developer @ Zybo Tech**
 
 ---
 
