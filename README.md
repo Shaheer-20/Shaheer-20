@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Software Developer at **GD Edutech** | Full-Stack Dev | ML Enthusiast | Flutter & Web Vibes 💻🔥<br><br>
+🌟 Software Developer at **Zybo Tech** | Full-Stack Dev | ML Enthusiast | Flutter & Web Vibes 💻🔥<br><br>
 Hey! I’m a developer who vibes with both frontend *and* backend — currently building cool stuff as a **Software Developer at GD Edutech**.  
 I'm passionate about creating clean, user-centric apps using **Flutter**, diving into **Machine Learning**, and exploring full-stack technologies.  
 Forever learning, coding, and turning ideas into reality 🚀💡
