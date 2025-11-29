@@ -2,7 +2,7 @@
 
 🌟 **Software Developer @ Zybo Tech** | Full-Stack Developer | ML Enthusiast | Flutter & Web Specialist 💻🔥
 
-Hey there! I'm a passionate developer who thrives in both frontend *and* backend development — currently crafting innovative solutions as a **Software Developer at Zybo Tech**
+Hey there! I'm a passionate developer who thrives in both frontend *and* backend development — currently crafting innovative solutions as a **Software Developer at Zybo Tech** (formerly GD Edutech).
 
 I specialize in building clean, user-centric applications using **Flutter**, exploring the depths of **Machine Learning**, and mastering full-stack technologies. Forever learning, coding, and transforming ideas into reality 🚀💡
 
@@ -68,7 +68,7 @@ I specialize in building clean, user-centric applications using **Flutter**, exp
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaheer-20&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaheer-20&theme=vision-friendly-dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shaheer-20&theme=vision-friendly-dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-20&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
