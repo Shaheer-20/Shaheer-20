@@ -2,7 +2,7 @@
 
 🌟 **Software Developer @ Zybo Tech** | Full-Stack Developer 💻🔥
 
-Hey there! I'm a passionate developer who thrives in both frontend *and* backend development — currently crafting innovative solutions as a **Software Developer at Zybo Tech**.
+Hey there!.. I'm a passionate developer who thrives in both frontend *and* backend development — currently crafting innovative solutions as a **Software Developer at Zybo Tech**.
 
 I specialize in building clean, user-centric applications using **Flutter**, exploring the depths of **Machine Learning**, and mastering full-stack technologies. Forever learning, coding, and transforming ideas into reality 🚀💡
 
