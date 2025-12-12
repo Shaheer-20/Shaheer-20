@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🌟 **Software Developer @ Zybo Tech** | Full-Stack Developer 💻🔥
+🌟 **Software Developer @ Zybo Tech** | Full-Stack Developer 💻😎
 
 Hey there!.. I'm a passionate developer who thrives in both frontend *and* backend development — currently crafting innovative solutions as a **Software Developer at Zybo Tech**.
 
