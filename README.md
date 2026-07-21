@@ -93,8 +93,8 @@ Cross-platform mobile apps with **Flutter + Firebase** — shared codebase, nati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaheer-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Shaheer-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shaheer-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=Shaheer-20&theme=tokyonight&hide_border=true&background=0D1117" />
 
