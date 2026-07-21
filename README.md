@@ -1,125 +1,118 @@
 <div align="center">
 
-# Hi 👋 I'm Mahammad Shaheer
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=1000&color=00E6A8&center=true&vCenter=true&width=900&height=80&lines=Hi+👋+I'm+Mahammad+Shaheer;Software+Developer+%40+Zybo+Tech;Full+Stack+Developer;Azure+AI+Developer;Building+Software+That+Matters"/>
 
-### Software Developer @ Zybo Tech • Full Stack Developer • AI Enthusiast
-
-Building AI-powered applications, scalable web platforms, and modern user experiences.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Software+Developer+%40+Zybo+Tech;Full+Stack+Developer;Azure+AI+Developer;Flutter+Developer;Always+Building+Something+Awesome" />
+### 🚀 Full Stack Developer • AI Engineer • Cloud Enthusiast
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Shaheer-20&label=Profile%20Views&color=0e75b6&style=flat-square" />
+
+<a href="https://mshaheer.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=for-the-badge"/>
+</a>
+
+<a href="mailto:mahammmad.shaheer@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Shaheer-20&style=for-the-badge&color=00C896"/>
+
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 Who Am I?
 
-```javascript
-const shaheer = {
-    name: "Mahammad Shaheer",
-    location: "India 🇮🇳",
+```yaml
+Name: Mahammad Shaheer
 
-    role: "Software Developer @ Zybo Tech",
+Role: Software Developer @ Zybo Tech
 
-    currentlyWorkingOn: [
-        "Azure AI",
-        "Azure Document Intelligence",
-        "ASP.NET Web Forms",
-        "React",
-        "Flutter",
-        "AI Automation"
-    ],
+Location: India 🇮🇳
 
-    currentlyLearning: [
-        "Cloud Architecture",
-        "Advanced AI",
-        "System Design"
-    ],
+Focus:
+  - Azure AI
+  - Document Intelligence
+  - Full Stack Development
+  - AI Automation
+  - Flutter
 
-    askMeAbout: [
-        "C#",
-        ".NET",
-        "Azure",
-        "Flutter",
-        "React",
-        "Python"
-    ],
+Learning:
+  - Distributed Systems
+  - System Design
+  - Cloud Architecture
 
-    funFact: "I love turning complex ideas into simple software."
-};
+Passion:
+  Build software that solves real-world business problems.
 ```
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Arsenal
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,dart,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,dart,html,css"/>
 
-### Frameworks & Libraries
+### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,django,flask,bootstrap,tailwind,dotnet" />
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,express,flutter,django,flask,tailwind"/>
 
-### Databases
+### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase"/>
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vercel,netlify" />
-</p>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vercel,netlify"/>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,arduino" />
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma"/>
+
+</div>
 
 ---
 
-# 🌟 What I'm Working On
+# 🚀 Current Focus
 
-- 🤖 AI Powered Applications
-- ☁ Azure AI & Document Intelligence
-- 📄 Intelligent PDF Processing
-- 🌐 Full Stack Web Applications
-- 📱 Flutter Mobile Development
-- 🚀 Automation & Productivity Tools
+🧠 AI Applications
 
----
+📄 Intelligent Document Processing
 
-# 🚀 Featured Projects
+☁ Azure AI & Cloud
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Invoice Processing | AI-powered invoice extraction using Azure Document Intelligence |
-| 📄 PDF Editor | PDF watermarking, stamping, and document automation |
-| 🌐 Personal Portfolio | Premium React + Tailwind portfolio website |
-| ✈ Captain Travels | Modern travel booking platform |
-| 📱 Flutter Apps | Cross-platform mobile applications |
-| 🧠 Machine Learning | AI & Computer Vision projects |
+⚙ ASP.NET & React
+
+📱 Flutter Applications
+
+🤖 Workflow Automation
 
 ---
 
-# 📈 GitHub Analytics
+# 🌟 Highlight Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🤖 AI Invoice Processing | Azure AI • C# | Intelligent invoice extraction using Azure Document Intelligence |
+| 📄 PDF Automation Suite | .NET • iText | PDF watermarking, stamping & document processing |
+| 🌐 Personal Portfolio | React • Tailwind | Modern animated developer portfolio |
+| ✈ Captain Travels | React | Premium travel booking website |
+| 📱 Flutter Apps | Flutter • Firebase | Cross-platform mobile applications |
+| 🧠 Machine Learning | Python | AI & Computer Vision experiments |
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaheer-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shaheer-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-20&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-20&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -131,17 +124,17 @@ const shaheer = {
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shaheer-20&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shaheer-20&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -151,33 +144,29 @@ const shaheer = {
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://mshaheer.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="mailto:mahammmad.shaheer@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!-- Add LinkedIn Later -->
-
-</p>
-
----
+# 📌 Philosophy
 
 <div align="center">
 
-## 💡 Philosophy
+> **"Good software isn't just code. It's a solution to someone's problem."**
 
-> **"Building software that solves real-world problems with clean code, AI, and modern technologies."**
+</div>
 
-<br>
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaheer-20&theme=tokyonight"/>
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://mshaheer.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:mahammmad.shaheer@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- LinkedIn Coming Soon -->
 
 </div>
 
@@ -185,8 +174,12 @@ const shaheer = {
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaheer-20&theme=tokyonight"/>
 
-If you like my work, consider giving a ⭐ to my repositories.
+<br>
+
+### ⭐ Thanks for visiting!
+
+*Open source • AI • Cloud • Full Stack • Always Learning*
 
 </div>
