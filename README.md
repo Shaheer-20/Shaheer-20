@@ -1,108 +1,192 @@
-
-# 💫 About Me
-
-🌟 **Software Developer @ Zybo Tech** | Full-Stack Developer 💻😎
-
-Hey there!.. I'm a passionate developer who thrives in both frontend *and* backend development — currently crafting innovative solutions as a **Software Developer at Zybo Tech**.
-
-I specialize in building clean, user-centric applications using **Flutter**, exploring the depths of **Machine Learning**, and mastering full-stack technologies. Forever learning, coding, and transforming ideas into reality 🚀💡
-
----
-
-## 💼 Current Role
-**Software Developer @ Zybo Tech**
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### Tools & Hardware
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-
-### Deployment & Hosting
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-### Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaheer-20&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaheer-20&theme=vision-friendly-dark&hide_border=false)
+# Hi 👋 I'm Mahammad Shaheer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-20&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+### Software Developer @ Zybo Tech • Full Stack Developer • AI Enthusiast
+
+Building AI-powered applications, scalable web platforms, and modern user experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Software+Developer+%40+Zybo+Tech;Full+Stack+Developer;Azure+AI+Developer;Flutter+Developer;Always+Building+Something+Awesome" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Shaheer-20&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shaheer-20&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+# 🚀 About Me
+
+```javascript
+const shaheer = {
+    name: "Mahammad Shaheer",
+    location: "India 🇮🇳",
+
+    role: "Software Developer @ Zybo Tech",
+
+    currentlyWorkingOn: [
+        "Azure AI",
+        "Azure Document Intelligence",
+        "ASP.NET Web Forms",
+        "React",
+        "Flutter",
+        "AI Automation"
+    ],
+
+    currentlyLearning: [
+        "Cloud Architecture",
+        "Advanced AI",
+        "System Design"
+    ],
+
+    askMeAbout: [
+        "C#",
+        ".NET",
+        "Azure",
+        "Flutter",
+        "React",
+        "Python"
+    ],
+
+    funFact: "I love turning complex ideas into simple software."
+};
+```
 
 ---
 
-## ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,dart,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,django,flask,bootstrap,tailwind,dotnet" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vercel,netlify" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,arduino" />
+</p>
 
 ---
 
-## 📈 Profile Views
-[![Profile Views](https://visitcount.itsvg.in/api?id=Shaheer-20&icon=7&color=10)](https://visitcount.itsvg.in)
+# 🌟 What I'm Working On
+
+- 🤖 AI Powered Applications
+- ☁ Azure AI & Document Intelligence
+- 📄 Intelligent PDF Processing
+- 🌐 Full Stack Web Applications
+- 📱 Flutter Mobile Development
+- 🚀 Automation & Productivity Tools
 
 ---
 
-### 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_URL)
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Invoice Processing | AI-powered invoice extraction using Azure Document Intelligence |
+| 📄 PDF Editor | PDF watermarking, stamping, and document automation |
+| 🌐 Personal Portfolio | Premium React + Tailwind portfolio website |
+| ✈ Captain Travels | Modern travel booking platform |
+| 📱 Flutter Apps | Cross-platform mobile applications |
+| 🧠 Machine Learning | AI & Computer Vision projects |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaheer-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-20&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaheer-20&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shaheer-20&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-20&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://mshaheer.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="mailto:mahammmad.shaheer@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- Add LinkedIn Later -->
+
+</p>
 
 ---
 
 <div align="center">
-  
-### 💡 *"Code is poetry written in logic"*
-  
-*Powered by vibes, version control, and endless coffee* ☕✨
+
+## 💡 Philosophy
+
+> **"Building software that solves real-world problems with clean code, AI, and modern technologies."**
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaheer-20&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
