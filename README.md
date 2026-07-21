@@ -110,17 +110,7 @@ Cross-platform mobile apps with **Flutter + Firebase** — shared codebase, nati
 
 </div>
 
-> To activate the snake above: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action on your profile repo — it auto-generates and commits that SVG on a schedule so it always stays current.
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shaheer-20&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+> To activate the snake above: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action on your profile repo — it auto-generates and commits that SVG on a schedule so it always stays current. Until you set that up, this image will 404 — that's expected, not broken.
 
 <br/>
 
