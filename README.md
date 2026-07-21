@@ -110,8 +110,6 @@ Cross-platform mobile apps with **Flutter + Firebase** — shared codebase, nati
 
 </div>
 
-> To activate the snake above: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action on your profile repo — it auto-generates and commits that SVG on a schedule so it always stays current. Until you set that up, this image will 404 — that's expected, not broken.
-
 <br/>
 
 <div align="center">
