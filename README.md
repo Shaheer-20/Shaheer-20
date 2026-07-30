@@ -162,7 +162,7 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shaheer-20&theme=darkhub&no-frame=true&row=1&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=Shaheer-20&theme=darkhub&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -171,7 +171,7 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Shaheer-20&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C896&line=00C896&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-20&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C896&line=00C896&point=ffffff"/>
 </div>
 
 ---
