@@ -158,7 +158,7 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Shaheer-20&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shaheer-20&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br><br>
 
