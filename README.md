@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C896&height=220&section=header&text=Mahammad%20Shaheer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%40%20Zybo%20Tech%20%7C%20Full%20Stack%20%2B%20AI&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C896&height=220&section=header&text=Mahammad%20Shaheer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%40%20Zybo%20Tech%20%7C%20Full%20Stack%20%2B%20AI&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=800&color=00C896&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Azure+%2B+.NET+%2B+React+%2B+Flutter;Turning+documents+into+data%2C+ideas+into+apps;Always+shipping%2C+always+learning" style="max-width:100%;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=800&color=00C896&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Azure+%2B+.NET+%2B+React+%2B+Flutter;Turning+documents+into+data%2C+ideas+into+apps;Always+shipping%2C+always+learning"/>
 
 <br><br>
 
@@ -36,7 +36,9 @@
 
 ## 🧑‍🚀 About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
 name: Mahammad Shaheer
@@ -45,24 +47,25 @@ based_in: India 🇮🇳
 
 currently_building:
   - AI document intelligence pipelines (Azure)
-  - Biometric security & anti-spoofing research
+  - PDF automation tooling (.NET / iText)
   - React + Flutter applications
 
 learning:
   - Cloud Architecture
   - System Design
-  - AI / ML Engineering
+  - AI Engineering
 
 motto: "Build. Learn. Improve. Repeat."
 ```
 
 🏢 Currently building at **[Zybo Tech](https://www.linkedin.com/company/zybotech/)**
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="280" style="max-width:80%;"/>
-
-</div>
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="280"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,55 +83,69 @@ motto: "Build. Learn. Improve. Repeat."
 
 ## 🚀 Featured Builds
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
 
 ### 🤖 AI Invoice Processing
-
 Extracts structured line-item data from scanned invoices using **Azure Document Intelligence + C#**, reducing manual data entry.
 
 <img src="https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
-<br><br>
-
+</td>
+<td width="30%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="160"/>
+</td>
+</tr>
 
-<br><br><br>
+<tr><td colspan="2"><br></td></tr>
 
-### 🛡️ Anti-Spoofing Biometric System — Final Year Project
+<tr>
+<td width="70%" valign="top">
 
-Deep learning–based face **liveness detection** system that distinguishes real users from spoofing attempts (printed photos, replayed video, masks) in real time, designed to harden facial biometric authentication against presentation attacks. Trained a CNN classifier on live-vs-spoof face datasets, with an OpenCV-based capture/preprocessing pipeline and a lightweight inference API for integration into login flows.
+### 📄 PDF Automation Suite
+Watermarking, redaction, stamping, and batch PDF generation built using **.NET + iText** for production ASP.NET applications.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-00C896?style=flat-square&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/iText-00C896?style=flat-square&logo=adobeacrobatreader&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
-<br><br>
+</td>
+<td width="30%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="160"/>
+</td>
+</tr>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="160"/>
+<tr><td colspan="2"><br></td></tr>
 
-<br><br><br>
+<tr>
+<td width="70%" valign="top">
 
 ### ✈️ Captain Travels
-
 Premium travel booking website built with **React + Tailwind CSS**, focused on performance and modern UI.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-<br><br>
-
+</td>
+<td width="30%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="160"/>
+</td>
+</tr>
 
-<br><br><br>
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="70%" valign="top">
 
 ### 📱 Flutter Applications
-
 Cross-platform mobile apps powered by **Flutter + Firebase** with a single shared codebase.
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
-<br><br>
-
+</td>
+<td width="30%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="160"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -136,16 +153,16 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 
 <div align="center">
 
-<img width="100%" style="max-width:480px;" src="https://github-stats-extended.vercel.app/api?username=Shaheer-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
-<img width="100%" style="max-width:480px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shaheer-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Shaheer-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shaheer-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img width="100%" style="max-width:700px;" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shaheer-20&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shaheer-20&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br><br>
 
-<img width="100%" style="max-width:700px;" src="https://github-trophies.vercel.app/?username=Shaheer-20&theme=darkhub&no-frame=true&row=1&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=Shaheer-20&theme=darkhub&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -154,7 +171,7 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 ## 📈 Activity Graph
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-20&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C896&line=00C896&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-20&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C896&line=00C896&point=ffffff"/>
 </div>
 
 ---
@@ -162,7 +179,7 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Shaheer-20/Shaheer-20/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Shaheer-20/Shaheer-20/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
@@ -181,6 +198,6 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0F2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0F2027&height=100&section=footer"/>
 
 </div>
