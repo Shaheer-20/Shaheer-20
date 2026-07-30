@@ -21,17 +21,24 @@
 
 <br><br>
 
-<!-- Animated social icons -->
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
-<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45">
+<!-- moving tech logos strip -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="45"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧑‍🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
 name: Mahammad Shaheer
@@ -53,9 +60,12 @@ motto: "Build. Learn. Improve. Repeat."
 
 🏢 Currently building at **[Zybo Tech](https://www.linkedin.com/company/zybotech/)**
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380">
-</div>
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="280"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,35 +83,73 @@ motto: "Build. Learn. Improve. Repeat."
 
 ## 🚀 Featured Builds
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> **AI Invoice Processing**
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+### 🤖 AI Invoice Processing
 Extracts structured line-item data from scanned invoices using **Azure Document Intelligence + C#**, reducing manual data entry.
-`Azure AI` • `C#` • `.NET`
 
----
+<img src="https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25"> **PDF Automation Suite**
+</td>
+<td width="30%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="160"/>
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="70%" valign="top">
+
+### 📄 PDF Automation Suite
 Watermarking, redaction, stamping, and batch PDF generation built using **.NET + iText** for production ASP.NET applications.
-`.NET` • `iText` • `ASP.NET`
 
----
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/iText-00C896?style=flat-square&logo=adobeacrobatreader&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
-✈️ **Captain Travels**
+</td>
+<td width="30%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="160"/>
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="70%" valign="top">
+
+### ✈️ Captain Travels
 Premium travel booking website built with **React + Tailwind CSS**, focused on performance and modern UI.
-`React` • `Tailwind CSS`
 
----
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-📱 **Flutter Applications**
+</td>
+<td width="30%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="160"/>
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="70%" valign="top">
+
+### 📱 Flutter Applications
 Cross-platform mobile apps powered by **Flutter + Firebase** with a single shared codebase.
-`Flutter` • `Firebase`
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+</td>
+<td width="30%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="160"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="280">
-</div>
 
 <div align="center">
 
@@ -112,6 +160,18 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 
 <img src="https://streak-stats.demolab.com?user=Shaheer-20&theme=tokyonight&hide_border=true&background=0D1117"/>
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shaheer-20&theme=darkhub&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Shaheer-20&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C896&line=00C896&point=ffffff"/>
 </div>
 
 ---
@@ -126,11 +186,15 @@ Cross-platform mobile apps powered by **Flutter + Firebase** with a single share
 
 <div align="center">
 
-### 💭 *"Building software that solves real-world problems through clean architecture, AI, and modern technologies."*
+### 🎉 Break Time
 
-<br>
+<img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30"/>
+<img src="https://camo.githubusercontent.com/d33a2619953c93a3ac8dbc89b7316997c265ef4d42e552adcf73bd62be49b1d5/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f6972616e706172726f742e676966" width="30"/>
+<img src="https://camo.githubusercontent.com/7ab785303e6c651e6b5e6ab4bab6120e7d625bf7f65d4fa9c30e3aa3e68a9b1c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966" width="30"/>
+<img src="https://camo.githubusercontent.com/61d6c1ff3602cc84b9d5686edd06952df9433711a46abe9e9c1d3c2d4ac3b3f7/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6a756d70696e67706172726f742e676966" width="30"/>
+<img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
+*"Building software that solves real-world problems through clean architecture, AI, and modern technologies."*
 
 <br>
 
